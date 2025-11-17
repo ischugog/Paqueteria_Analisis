@@ -50,7 +50,7 @@ Recomendación operativa: Priorizar rutas desde Los Mochis puede reducir 10–15
 
 
 CONCLUSIÓN
-Este análisis es escalable: con datos reales de Paquete Express (CSV de rutas, GPS, tiempos), se puede:
+Este análisis es escalable: con datos reales de Paquetería (CSV de rutas, GPS, tiempos), se puede:
 •	Predecir retrasos con machine learning
 •	Optimizar rutas con algoritmos
 •	Generar dashboards automáticos
